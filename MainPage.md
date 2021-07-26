@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <h2>Korean Drama's In Hindi</h2>
