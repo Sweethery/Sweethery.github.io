@@ -11,5 +11,3 @@
 <a href="Penthouse Season 1.html">
 <img src="Penthouse.jpg" alt="Penthouse: War In Life Season 1" width="200" height="250">
 </a>
-</body>
-</html>
